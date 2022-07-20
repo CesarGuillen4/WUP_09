@@ -129,7 +129,7 @@ The best two regressor models would also be Length 3 and Width, because of their
 
 ## Final Summary Statements
 
-
+As we see in all of the models above we can assume that the higher the Adjusted R squared value is very much the method as to tell if a certain variable would be useful to make predictions of another variable. Here we used the length of the fish to determine if there would be a correlation between the length and weight of the fishes we were given, and in most the length can correspond to the weight. 
 
 
 
