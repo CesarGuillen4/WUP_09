@@ -87,9 +87,11 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 
 ### Best Models
 
-The best models would be Length 1 and Length 3. 
+The best models would be Length 1, Length 2, Length 3, Height, and Width since they are all near the top of the model above.  
+
 ### Best Two regressor model
 
+The best two Regressor models would be Length 1 and Length 3, because they are both on the two together are the best explanatory variables to go by. 
 ## Roach
 
 ### Best Models
